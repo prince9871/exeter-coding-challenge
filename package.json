@@ -1,23 +1,22 @@
 {
-  "name": "templateforv2-static",
+  "name": "project-translation-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "In this project, we will build a translation app that can convert English words in a given text file to French using a pre-defined dictionary of translations. We will also provide frequency data for each converted word.",
   "main": "index.html",
   "scripts": {
-    "start": "nodemon index.js",
-    "build": "echo This is a static template, there is no bundler or bundling involved!"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "https://github.com/prince9871/exeter-coding-challenge.git"
   },
   "keywords": [],
   "author": "Ives van Hoorne",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "https://github.com/prince9871/exeter-coding-challenge.git"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "https://github.com/prince9871/exeter-coding-challenge.git",
   "devDependencies": {},
   "dependencies": {
     "nodemon": "^2.0.20"
